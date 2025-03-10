@@ -1,4 +1,4 @@
-<h2 align="left">Hey there!  My name is KAME MBITT EMMANUEL. I'm linus certified and have some knowlegde about c and c++ .</h2>
+<h2 align="left">Hey there!  My name is KAME MBITT EMMANUEL. I'm linus certified and have some knowlegde about c  .</h2>
  
 ###
 
