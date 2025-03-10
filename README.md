@@ -1,4 +1,4 @@
-<h2 align="left">Hey there!  My name is KAME MBITT EMMANUEL. I'm LPIC certified, C programmer and tech passionate.</h2>
+<h2 align="left">Hey there!  My name is KAME MBITT EMMANUEL. I'm LPIC certified  and  C programmer .</h2>
  
 ###
 
