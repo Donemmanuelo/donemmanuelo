@@ -1,92 +1,84 @@
-# 🌟 Welcome to My World! 🌟
-
-📍 **Location**: Bangangte, Cameroon  
-💻 **Tech Stack**: Rust and C  
-📧 **Email**: emmanuelodon943gmail.com 
-
+<h2 align="left">Hey there!  My name is KAME MBITI EMMANUEL I'm a software engineer from Cameroon with extensive knowledge and beginner in the field.</h2>
 
 ###
-
-## 🚀 **About Me**
-
-I’m not just a Software Engineer—I’m a **problem solver**, a **creator**, and a **visionary**. My passion lies in building solutions that are not only functional but also elegant and impactful. When I’m not coding, you’ll find me reading books or playing video games.
-
-###
-
-## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Donemmanuelo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Donemmanuelo&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Donemmanuelo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Donemmanuelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Marcjazz&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-## 🛠️ **Tech Stack**
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="30" alt="handlebars logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
 
 ###
 
-## 📅 **Contribution Graph**
-
-const svg = d3.select("body")
-    .append("svg")
-    .attr("width", 800)
-    .attr("height", 400);
-
-const xScale = d3.scaleLinear().domain([0, 365]).range([0, 800]);
-const yScale = d3.scaleLinear().domain([-1, 1]).range([400, 0]);
-
-const line = d3.line()
-    .x((d, i) => xScale(i))
-    .y(d => yScale(Math.sin(d)));
-
-svg.append("path")
-    .datum(contributions)
-    .attr("d", line)
-    .attr("stroke", "blue")
-    .attr("fill", "none");
-
-###
-
-## 🌟 **Recent Activity**
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/Donemmanuelo/fibbot/pull/123) in [fibbot]
-2. 🚀 Pushed 3 commits to [fibbot]
-3. 🛠️ Opened issue [#456](https://github.com/Donemmanuelo/fibbot/issues/456) in [fibbot]
-4. 📚 Updated README in [fibbot]
-<!--END_SECTION:activity-->
-
-###
-
-## 🏆 **Achievements**
-
-- 🥇 LPIC Certified
-
-
-###
-
-
-
-## 🤝 **Let's Connect!**
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/Don emmanuelo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://discordapp.com/users/700272169220964443" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=kdmark&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://twitter.com/Don caleb">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="mailto:kuidjamarco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Marco%20Kuidja&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://github.com/Donemmanuelo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://linkedin.com/in/kuidja-marco" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/kdmarc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=kdmarc&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/16566024/marco-kuidja" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
 
----
+###
 
-⭐️ **Thanks for visiting my profile!** ⭐️
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=donemmanuelo&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donemmanuelo&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
