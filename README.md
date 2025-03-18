@@ -33,7 +33,7 @@ I’m not just a Software Engineer—I’m a **problem solver**, a **creator**, 
 
 ## 📅 **Contribution Graph**
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=donemmanuelo&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub Contribution Graph](https://ghchart.rshah.org/donemmanuelo)
 
 ###
 
