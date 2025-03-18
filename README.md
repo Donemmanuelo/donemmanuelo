@@ -33,7 +33,7 @@ I’m not just a [Software Engineer]—I’m a **problem solver**, a **creator**
 
 ## 📅 **Contribution Graph**
 
-![Contribution Graph](https://ghchart.rshah.org/[Donemmanuelo])
+![Contribution Graph](https://ghchart.rshah.org/[donemmanuelo])
 
 ---
 
