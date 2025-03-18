@@ -32,24 +32,12 @@ I’m not just a Software Engineer—I’m a **problem solver**, a **creator**, 
 ###
 
 ## 📅 **Contribution Graph**
+###
 
-const svg = d3.select("body")
-    .append("svg")
-    .attr("width", 800)
-    .attr("height", 400);
+<div align="center">
 
-const xScale = d3.scaleLinear().domain([0, 365]).range([0, 800]);
-const yScale = d3.scaleLinear().domain([-1, 1]).range([400, 0]);
-
-const line = d3.line()
-    .x((d, i) => xScale(i))
-    .y(d => yScale(Math.sin(d)));
-
-svg.append("path")
-    .datum(contributions)
-    .attr("d", line)
-    .attr("stroke", "blue")
-    .attr("fill", "none");
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donemmanuelo&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
